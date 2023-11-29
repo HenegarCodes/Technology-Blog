@@ -1,0 +1,6 @@
+
+*.md
+
+# Ignore artifacts:
+build
+coverage
